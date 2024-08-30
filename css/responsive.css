@@ -1,0 +1,94 @@
+/* 반응형 스타일 */
+@media (max-width: 1680px) {
+    .inner-type02 { max-width: 1480px;width: 100%;padding-left: 3.90625%;padding-right: 3.90625%;box-sizing: border-box;}
+    #section1 .absolute {left: 44%;transform: translateX(-50%);bottom: 14%;width:  360px;z-index: 1;}
+    #section1 .absolute.n_second {left: 45%;transform: translateX(50%);bottom:14%;width: 360px;}
+    #section1 .t_wrap {padding-left: 10%;position: relative;top: 32% !important;}
+    #section2 #viewMore {width: 80%;height: auto;}
+    #section2 .youtube-content {margin: 14% auto;width: 74%;}
+    #section5 .flex_wrap {width: 1160px !important;}
+    #section5 .flex_wrap .img_wrap {width: 280px !important;}
+    .outlined-tit {font-size: 66px!important;}
+    #fullpage .main_tit {font-size: 66px!important;}
+    #section3 .flex_wrap {width: 684px !important;}
+    #section3 .tec_wrap {width: 324px !important;}
+    #section3 .section_3_swiper {width: 630px;}
+    #section3 .section_3_swiper .img_wrap {border-radius: 20px;width: 456px;height: 456px;}
+    #section3 .section_3_swiper .img_wrap img {border-radius: 30px;width: 456px;height: 456px;transition-duration: 0.3s;transition-delay: 0.1s;}
+    #section3 .flex.jsb {align-items: center;}
+    #section4 #mainImage img {width: 640px;}
+    #section4 .wrap {height: 285px;}
+    #section4 .list_wrap svg {width: 70px;}
+    #section4 .list_wrap {height: 152px;background-color: #fff;padding-left: 25px;width: 550px;padding-right: 21px;}
+    #section7 .flex_wrap {width: 684px !important;}
+    #section7 .tec_wrap {width: 324px !important;}
+    #section7 .section_7_swiper {width: 630px;}
+    #section7 .section_7_swiper .img_wrap {border-radius: 20px;width: 456px;height: 456px;}
+    #section7 .section_7_swiper .img_wrap img {border-radius: 30px;width: 456px;height: 456px;transition-duration: 0.3s;transition-delay: 0.1s;}
+    #section7 .flex.jsb {align-items: center;}
+    #ceo .content1 {width: fit-content;}
+    #qa .box_wrap {padding: 33px 28px 55px;}
+    #qa .box_wrap .tit {margin-right: 16px;}
+    #news .board_list {margin: 0;display: flex;justify-content: space-evenly;flex-wrap: wrap;}
+    #news .board_list a {margin-left: 0;float: unset;}
+    #read .txt_wrap {padding: 80px 120px;}
+    #diagnosis .content1.bg .absolute img {width: 70%;}
+    #diagnosis .content1.bg .absolute {right: -25%;top: 40%;}
+    #diagnosis .content1.for_slider .swiper-container {width: 1800px;}
+    #platform .content1.for_slider .swiper-container {width: 1800px;}
+    #kits .swiper-container {width: 630px;height: 682px;}
+    #kits .swiper-container .img_wrap {border-radius: 20px;width: 456px;height: 456px;}
+    #kits .swiper-container .img_wrap img {border-radius: 30px;width: 456px;height: 456px;transition-duration: 0.3s;transition-delay: 0.1s;}
+    #vibrio_1 .content2 .product_mark_wrap .product-content .paper_img_wrap {width: 33%;}
+}
+
+@media (max-width: 1440px) {
+    .inner-type02 { max-width: 1240px;width: 100%;padding-left: 3.90625%;padding-right: 3.90625%;box-sizing: border-box;}
+    #section1 .absolute {left: 42.5%;transform: translateX(-50%);bottom: 14%;width:  360px;z-index: 1;}
+    #section1 .absolute.n_second {left: 43%;transform: translateX(50%);bottom:14%;width: 360px;}
+    #section2 #viewMore {width: 80%;height: auto;}
+    #section2 .youtube-content {margin: 14% auto;width: 74%;}
+    #section1 .t_wrap {padding-left: 10%;position: relative;top: 32% !important;}
+    #section5 .flex_wrap {width: 860px !important;}
+    #section5 .flex_wrap .img_wrap {width: 280px !important;height: 90px !important;}
+    .outlined-tit {font-size: 66px!important;}
+    #fullpage .main_tit {font-size: 66px!important;}
+    #section2 .youtube-content {max-height: 630px;}
+    #section3 .flex_wrap {width: 684px !important;}
+    #section3 .tec_wrap {width: 324px !important;}
+    #section3 .flex.jsb {align-items: center;}
+    #section3 .section_3_swiper {width: 440px;}
+    #section3 .section_3_swiper .img_wrap {border-radius: 20px;width: 326px;height: 326px;}
+    #section3 .section_3_swiper .img_wrap img {border-radius: 30px;width: 326px;height: 326px;transition-duration: 0.3s;transition-delay: 0.1s;}
+    #section4 #mainImage img {width: 504px;}
+    #section4 .wrap {height: 285px;}
+    #section4 .list_wrap svg {width: 50px;}
+    #section4 .list_wrap {height: 120px;background-color: #fff;padding-left: 25px;width: 440px;padding-right: 21px;}
+    #section4 .list_wrap .tit {font-size: 20px;margin-bottom: 14px;}
+    #section4 .list_wrap .text {font-size: 12px;}
+    .gnb > li > a { font-size: 17px;}
+    #section7 .flex_wrap {width: 684px !important;}
+    #section7 .tec_wrap {width: 324px !important;}
+    #section7 .flex.jsb {align-items: center;}
+    #section7 .section_7_swiper {width: 440px;}
+    #section7 .section_7_swiper .img_wrap {border-radius: 20px;width: 326px;height: 326px;}
+    #section7 .section_7_swiper .img_wrap img {border-radius: 30px;width: 326px;height: 326px;transition-duration: 0.3s;transition-delay: 0.1s;}
+    #ceo .content1 {width: fit-content;}
+    #qa .box_wrap {padding: 33px 28px 55px;}
+    #qa .box_wrap .tit {margin-right: 16px;}
+    #news .board_list {margin: 0;display: flex;justify-content: space-evenly;flex-wrap: wrap;}
+    #news .board_list a {margin-left: 0;float: unset;}
+    #read .txt_wrap {padding: 80px 120px;}
+    #diagnosis .content1.bg .absolute img {width: 60%;}
+    #diagnosis .content1.bg .absolute {right: -42%;top: 50%;}
+    #diagnosis .content1.for_card .card {width: 450px;}
+    #diagnosis .content1.for_slider .swiper-container {width: 1800px;}
+    #platform .content1.for_slider .swiper-container {width: 1800px;}
+    #analyze .card {width: 450px;}
+    #kits .swiper-container  {width: 440px;}
+    #kits .swiper-container  .img_wrap {border-radius: 20px;width: 326px;height: 326px;}
+    #kits .swiper-container  .img_wrap img {border-radius: 30px;width: 326px;height: 326px;transition-duration: 0.3s;transition-delay: 0.1s;}
+    #vibrio_1 .content2 .product_mark_wrap .product-content .paper_img_wrap {width: 33%;}
+    #vibrio_1 .products a {width: 296px;height: 296px;}
+    #vibrio_1 .card_wrap .card {width: 290px;}
+}

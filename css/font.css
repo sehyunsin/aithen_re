@@ -1,0 +1,285 @@
+@charset "utf-8";
+
+@font-face {
+    font-family: "suit";
+    src: url("../font/SUIT-Thin.ttf");
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: "suit";
+    src: url("../font/SUIT-ExtraLight.ttf");
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: "suit";
+    src: url("../font/SUIT-Light.ttf");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "suit";
+    src: url("../font/SUIT-Regular.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "suit";
+    src: url("../font/SUIT-Medium.ttf");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "suit";
+    src: url("../font/SUIT-SemiBold.ttf");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "suit";
+    src: url("../font/SUIT-Bold.ttf");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "suit";
+    src: url("../font/SUIT-ExtraBold.ttf");
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: "suit";
+    src: url("../font/SUIT-Heavy.ttf");
+    font-weight: 900;
+}
+/****************E.SUIT*****************/
+
+
+
+@font-face {
+    font-family: "dmsans";
+    src: url("../font/DMSans-Thin.ttf");
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: "dmsans";
+    src: url("../font/DMSans-ExtraLight.ttf");
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: "dmsans";
+    src: url("../font/DMSans-Light.ttf");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "dmsans";
+    src: url("../font/DMSans-Regular.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "dmsans";
+    src: url("../font/DMSans-Medium.ttf");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "dmsans";
+    src: url("../font/DMSans-SemiBold.ttf");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "dmsans";
+    src: url("../font/DMSans-Bold.ttf");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "dmsans";
+    src: url("../font/DMSans-ExtraBold.ttf");
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: "dmsans";
+    src: url("../font/DMSans-Black.ttf");
+    font-weight: 900;
+}
+
+
+/****************E.DMSans*****************/
+
+@font-face {
+    font-family: "mont";
+    src: url("../font/Montserrat-Thin.ttf");
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: "mont";
+    src: url("../font/Montserrat-ExtraLight.ttf");
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: "mont";
+    src: url("../font/Montserrat-Light.ttf");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "mont";
+    src: url("../font/Montserrat-Regular.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "mont";
+    src: url("../font/Montserrat-Medium.ttf");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "mont";
+    src: url("../font/Montserrat-SemiBold.ttf");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "mont";
+    src: url("../font/Montserrat-Bold.ttf");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "mont";
+    src: url("../font/Montserrat-ExtraBold.ttf");
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: "mont";
+    src: url("../font/Montserrat-Black.ttf");
+    font-weight: 900;
+}
+
+/****************E.mont*****************/
+
+
+@font-face {
+    font-family: "noto";
+    src: url("../font/NotoSansKR-Thin.ttf");
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: "noto";
+    src: url("../font/NotoSansKR-ExtraLight.ttf");
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: "noto";
+    src: url("../font/NotoSansKR-Light.ttf");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "noto";
+    src: url("../font/NotoSansKR-Regular.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "noto";
+    src: url("../font/NotoSansKR-Medium.ttf");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "noto";
+    src: url("../font/NotoSansKR-SemiBold.ttf");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "noto";
+    src: url("../font/NotoSansKR-Bold.ttf");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "noto";
+    src: url("../font/NotoSansKR-ExtraBold.ttf");
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: "noto";
+    src: url("../font/NotoSansKR-Black.ttf");
+    font-weight: 900;
+}
+
+
+/****************E.noto*****************/
+
+
+@font-face {
+    font-family: "pre";
+    src: url("../font/Pretendard-Thin.ttf");
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: "pre";
+    src: url("../font/Pretendard-ExtraLight.ttf");
+    font-weight: 200;
+}
+
+@font-face {
+    font-family: "pre";
+    src: url("../font/Pretendard-Light.ttf");
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: "pre";
+    src: url("../font/Pretendard-Regular.ttf");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "pre";
+    src: url("../font/Pretendard-Medium.ttf");
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "pre";
+    src: url("../font/Pretendard-SemiBold.ttf");
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: "pre";
+    src: url("../font/Pretendard-Bold.ttf");
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "pre";
+    src: url("../font/Pretendard-ExtraBold.ttf");
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: "pre";
+    src: url("../font/Pretendard-Black.ttf");
+    font-weight: 900;
+}
+
